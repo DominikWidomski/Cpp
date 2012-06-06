@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AnimationManager.h" open="1" top="0" tabpos="8">
+		<Cursor position="263" topLine="0" />
+	</File>
+	<File name="Asteroid.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1085" topLine="30" />
+	</File>
+	<File name="Asteroid.h" open="0" top="0" tabpos="3">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="AsteroidOre.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="963" topLine="28" />
+	</File>
+	<File name="AsteroidOre.h" open="0" top="0" tabpos="0">
+		<Cursor position="282" topLine="0" />
+	</File>
+	<File name="Asteroids.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="33" />
+	</File>
+	<File name="Asteroids.h" open="0" top="0" tabpos="5">
+		<Cursor position="329" topLine="20" />
+	</File>
+	<File name="BoundingShape.h" open="0" top="0" tabpos="3">
+		<Cursor position="675" topLine="0" />
+	</File>
+	<File name="BoundingSphere.h" open="0" top="0" tabpos="4">
+		<Cursor position="820" topLine="0" />
+	</File>
+	<File name="Bullet.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1673" topLine="42" />
+	</File>
+	<File name="Bullet.h" open="0" top="0" tabpos="7">
+		<Cursor position="366" topLine="0" />
+	</File>
+	<File name="Drone.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="3475" topLine="111" />
+	</File>
+	<File name="Drone.h" open="1" top="0" tabpos="4">
+		<Cursor position="979" topLine="16" />
+	</File>
+	<File name="Explosion.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="2" />
+	</File>
+	<File name="GLMatrix.h" open="0" top="0" tabpos="0">
+		<Cursor position="20724" topLine="696" />
+	</File>
+	<File name="GLQuaternion.h" open="0" top="0" tabpos="0">
+		<Cursor position="1278" topLine="33" />
+	</File>
+	<File name="GLVector.h" open="0" top="0" tabpos="0">
+		<Cursor position="7957" topLine="246" />
+	</File>
+	<File name="GUISelectionBox.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1092" topLine="38" />
+	</File>
+	<File name="GUISelectionBox.h" open="0" top="0" tabpos="3">
+		<Cursor position="532" topLine="2" />
+	</File>
+	<File name="GameDisplay.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="559" topLine="6" />
+	</File>
+	<File name="GameDisplay.h" open="0" top="0" tabpos="0">
+		<Cursor position="398" topLine="0" />
+	</File>
+	<File name="GameObject.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="420" topLine="3" />
+	</File>
+	<File name="GameObject.h" open="0" top="0" tabpos="8">
+		<Cursor position="2728" topLine="59" />
+	</File>
+	<File name="GameObjectType.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="157" topLine="16" />
+	</File>
+	<File name="GameObjectType.h" open="0" top="0" tabpos="3">
+		<Cursor position="831" topLine="0" />
+	</File>
+	<File name="GameSession.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="830" topLine="26" />
+	</File>
+	<File name="GameSession.h" open="0" top="0" tabpos="8">
+		<Cursor position="471" topLine="8" />
+	</File>
+	<File name="GameWindow.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="775" topLine="14" />
+	</File>
+	<File name="GameWindow.h" open="0" top="0" tabpos="0">
+		<Cursor position="476" topLine="6" />
+	</File>
+	<File name="GameWorld.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="7723" topLine="267" />
+	</File>
+	<File name="GameWorld.h" open="0" top="0" tabpos="6">
+		<Cursor position="562" topLine="14" />
+	</File>
+	<File name="GlutSession.cpp" open="1" top="1" tabpos="10">
+		<Cursor position="3793" topLine="129" />
+	</File>
+	<File name="GlutSession.h" open="1" top="0" tabpos="9">
+		<Cursor position="451" topLine="5" />
+	</File>
+	<File name="GlutWindow.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="469" topLine="8" />
+	</File>
+	<File name="Image.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="0" topLine="127" />
+	</File>
+	<File name="MAIN.CPP" open="0" top="0" tabpos="9">
+		<Cursor position="806" topLine="0" />
+	</File>
+	<File name="Order.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="1952" topLine="75" />
+	</File>
+	<File name="Order.h" open="0" top="0" tabpos="6">
+		<Cursor position="601" topLine="6" />
+	</File>
+	<File name="Ore.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1806" topLine="54" />
+	</File>
+	<File name="Player.h" open="0" top="0" tabpos="0">
+		<Cursor position="186" topLine="0" />
+	</File>
+	<File name="Shape.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1241" topLine="11" />
+	</File>
+	<File name="Shape.h" open="0" top="0" tabpos="0">
+		<Cursor position="335" topLine="0" />
+	</File>
+	<File name="SmartPtr.h" open="0" top="0" tabpos="9">
+		<Cursor position="4734" topLine="141" />
+	</File>
+	<File name="Spaceship.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3865" topLine="120" />
+	</File>
+	<File name="Spaceship.h" open="1" top="0" tabpos="5">
+		<Cursor position="857" topLine="9" />
+	</File>
+	<File name="UnitManager.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="151" topLine="0" />
+	</File>
+	<File name="UnitManager.h" open="0" top="0" tabpos="0">
+		<Cursor position="541" topLine="0" />
+	</File>
+	<File name="___SmartPtr.h" open="0" top="0" tabpos="0">
+		<Cursor position="2222" topLine="72" />
+	</File>
+</CodeBlocks_layout_file>

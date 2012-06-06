@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GameProjectC++" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Lab01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="GL" />
+					<Add library="GLU" />
+					<Add library="glut" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Lab01" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="GL" />
+			<Add library="glut" />
+			<Add library="GLU" />
+		</Linker>
+		<Unit filename="Animation.cpp" />
+		<Unit filename="Animation.h" />
+		<Unit filename="AnimationManager.cpp" />
+		<Unit filename="AnimationManager.h" />
+		<Unit filename="Asteroid.cpp" />
+		<Unit filename="Asteroid.h" />
+		<Unit filename="AsteroidOre.cpp" />
+		<Unit filename="AsteroidOre.h" />
+		<Unit filename="Asteroids.cpp" />
+		<Unit filename="Asteroids.h" />
+		<Unit filename="BoundingShape.h" />
+		<Unit filename="BoundingSphere.h" />
+		<Unit filename="Bullet.cpp" />
+		<Unit filename="Bullet.h" />
+		<Unit filename="Drone.cpp" />
+		<Unit filename="Drone.h" />
+		<Unit filename="Explosion.cpp" />
+		<Unit filename="Explosion.h" />
+		<Unit filename="GLMatrix.cpp" />
+		<Unit filename="GLMatrix.h" />
+		<Unit filename="GLQuaternion.h" />
+		<Unit filename="GLVector.cpp" />
+		<Unit filename="GLVector.h" />
+		<Unit filename="GUIComponent.cpp" />
+		<Unit filename="GUIComponent.h" />
+		<Unit filename="GUIContainer.cpp" />
+		<Unit filename="GUIContainer.h" />
+		<Unit filename="GUIIcon.cpp" />
+		<Unit filename="GUIIcon.h" />
+		<Unit filename="GUILabel.cpp" />
+		<Unit filename="GUILabel.h" />
+		<Unit filename="GUISelectionBox.cpp" />
+		<Unit filename="GUISelectionBox.h" />
+		<Unit filename="GameDisplay.cpp" />
+		<Unit filename="GameDisplay.h" />
+		<Unit filename="GameObject.cpp" />
+		<Unit filename="GameObject.h" />
+		<Unit filename="GameObjectType.cpp" />
+		<Unit filename="GameObjectType.h" />
+		<Unit filename="GameSession.cpp" />
+		<Unit filename="GameSession.h" />
+		<Unit filename="GameUtil.h" />
+		<Unit filename="GameWindow.cpp" />
+		<Unit filename="GameWindow.h" />
+		<Unit filename="GameWorld.cpp" />
+		<Unit filename="GameWorld.h" />
+		<Unit filename="GlutSession.cpp" />
+		<Unit filename="GlutSession.h" />
+		<Unit filename="GlutWindow.cpp" />
+		<Unit filename="GlutWindow.h" />
+		<Unit filename="IGameWorldListener.h" />
+		<Unit filename="IKeyboardListener.h" />
+		<Unit filename="IMouseListener.h" />
+		<Unit filename="IPlayerListener.h" />
+		<Unit filename="IScoreListener.h" />
+		<Unit filename="ITimerListener.h" />
+		<Unit filename="IWeapon.h" />
+		<Unit filename="IWindowListener.h" />
+		<Unit filename="Image.cpp" />
+		<Unit filename="Image.h" />
+		<Unit filename="ImageManager.cpp" />
+		<Unit filename="ImageManager.h" />
+		<Unit filename="MAIN.CPP" />
+		<Unit filename="MovementController.cpp" />
+		<Unit filename="MovementController.h" />
+		<Unit filename="Notes.txt" />
+		<Unit filename="Order.cpp" />
+		<Unit filename="Order.h" />
+		<Unit filename="Ore.cpp" />
+		<Unit filename="Ore.h" />
+		<Unit filename="Player.h" />
+		<Unit filename="ScoreKeeper.h" />
+		<Unit filename="SelectionBox.cpp" />
+		<Unit filename="SelectionBox.h" />
+		<Unit filename="Shape.cpp" />
+		<Unit filename="Shape.h" />
+		<Unit filename="Ship.h" />
+		<Unit filename="SmartPtr.h" />
+		<Unit filename="Spaceship.cpp" />
+		<Unit filename="Spaceship.h" />
+		<Unit filename="Sprite.cpp" />
+		<Unit filename="Sprite.h" />
+		<Unit filename="Texture.cpp" />
+		<Unit filename="Texture.h" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.h" />
+		<Unit filename="UnitManager.cpp" />
+		<Unit filename="UnitManager.h" />
+		<Unit filename="___SmartPtr.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

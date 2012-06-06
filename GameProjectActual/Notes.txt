@@ -1,0 +1,4 @@
+
+
+glEnable and glDisable for GL_COLOR_MATERIAL and like GL_BLEND or something screws up the colours everywhere in sprites etc
+

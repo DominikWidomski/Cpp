@@ -1,0 +1,405 @@
+# depslib dependency file v1.0
+1141238330 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Animation.cpp
+	"GameUtil.h"
+	"Texture.h"
+	"Animation.h"
+
+1332643682 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameUtil.h
+	<math.h>
+	<map>
+	<list>
+	<utility>
+	<string>
+	<sstream>
+	<iostream>
+	<fstream>
+	"SmartPtr.h"
+	"GLVector.h"
+	<GL/glut.h>
+	<stdlib.h>
+
+1139333242 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/SmartPtr.h
+
+1139395248 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GLVector.h
+	<GL/glut.h>
+	<cmath>
+	<iostream>
+	<cstring>
+
+1141219928 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Texture.h
+
+1141238508 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Animation.h
+
+1328641158 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/AnimationManager.cpp
+	"ImageManager.h"
+	"TextureManager.h"
+	"AnimationManager.h"
+	"Image.h"
+	"Texture.h"
+	"Animation.h"
+
+1141250476 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/ImageManager.h
+	"GameUtil.h"
+
+1141250518 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/TextureManager.h
+	"GameUtil.h"
+
+1338158346 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/AnimationManager.h
+	"GameUtil.h"
+
+1141250444 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Image.h
+	"GameUtil.h"
+
+1332805997 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Asteroid.cpp
+	<stdlib.h>
+	"GameUtil.h"
+	"BoundingShape.h"
+	"BoundingSphere.h"
+	"Asteroid.h"
+
+1331420611 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/BoundingShape.h
+	"GameUtil.h"
+	"GameObjectType.h"
+	"GameObject.h"
+
+1332250337 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameObjectType.h
+
+1332726435 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameObject.h
+	"GameObjectType.h"
+	"GameUtil.h"
+	"GameWorld.h"
+	"Shape.h"
+	"Sprite.h"
+
+1332808802 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameWorld.h
+	"GameUtil.h"
+	"IGameWorldListener.h"
+	"UnitManager.h"
+	"GUISelectionBox.h"
+
+1139333240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IGameWorldListener.h
+	"GameUtil.h"
+
+1332552438 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Shape.h
+	"GameUtil.h"
+
+1141238958 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Sprite.h
+	"GameUtil.h"
+
+1139416008 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/BoundingSphere.h
+	"GameUtil.h"
+	"GameObjectType.h"
+	"BoundingShape.h"
+
+1332726458 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Asteroid.h
+	"GameUtil.h"
+	"GameObject.h"
+	"Shape.h"
+
+1332853143 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Asteroids.cpp
+	"Asteroid.h"
+	"AsteroidOre.h"
+	"Ore.h"
+	"Asteroids.h"
+	"Animation.h"
+	"AnimationManager.h"
+	"Explosion.h"
+	"GameUtil.h"
+	"GameWindow.h"
+	"GameWorld.h"
+	"GameDisplay.h"
+	"GUILabel.h"
+	"GUISelectionBox.h"
+	"Image.h"
+	"ImageManager.h"
+	"Shape.h"
+	"Spaceship.h"
+	"Sprite.h"
+	"Texture.h"
+	"TextureManager.h"
+	"Drone.h"
+	"Order.h"
+	<cmath>
+
+1332810604 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Asteroids.h
+	"GameUtil.h"
+	"GameSession.h"
+	"IKeyboardListener.h"
+	"IMouseListener.h"
+	"IPlayerListener.h"
+	"IScoreListener.h"
+	"Player.h"
+	"ScoreKeeper.h"
+	"UnitManager.h"
+
+1331576588 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameSession.h
+	"ITimerListener.h"
+
+1139333240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/ITimerListener.h
+
+1235414240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IKeyboardListener.h
+
+1140000066 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IPlayerListener.h
+
+1139996544 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IScoreListener.h
+
+1140001056 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Player.h
+	"GameUtil.h"
+	"GameObject.h"
+	"GameObjectType.h"
+	"IPlayerListener.h"
+	"IGameWorldListener.h"
+
+1332777457 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/ScoreKeeper.h
+	"GameUtil.h"
+	"GameObject.h"
+	"GameObjectType.h"
+	"IScoreListener.h"
+	"IGameWorldListener.h"
+	"Ore.h"
+
+1141263764 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Explosion.h
+	"GameUtil.h"
+	"GameObject.h"
+
+1331578674 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameWindow.h
+	"GameUtil.h"
+	"GlutWindow.h"
+
+1139395030 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GlutWindow.h
+	"GameUtil.h"
+
+1139333240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameDisplay.h
+	"GameUtil.h"
+	"GUIContainer.h"
+
+1139333242 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIContainer.h
+	"GameUtil.h"
+	"GUIComponent.h"
+
+1330819511 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIComponent.h
+	"GameUtil.h"
+
+1139993522 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUILabel.h
+	"GameUtil.h"
+	"GUIComponent.h"
+
+1334080766 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Spaceship.h
+	"GameUtil.h"
+	"GameObject.h"
+	"Shape.h"
+
+1332849446 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Bullet.cpp
+	"GameWorld.h"
+	"BoundingSphere.h"
+	"Bullet.h"
+
+1332849012 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Bullet.h
+	"GameUtil.h"
+	"GameObject.h"
+
+1328813633 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Explosion.cpp
+	"GameWorld.h"
+	"BoundingSphere.h"
+	"Explosion.h"
+
+1139333242 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GLMatrix.cpp
+	"GLMatrix.h"
+
+1139333242 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GLMatrix.h
+	"GLVector.h"
+	<cstring>
+
+1139333242 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GLVector.cpp
+	"GLVector.h"
+
+1139993060 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIComponent.cpp
+	"GUIComponent.h"
+
+1330810493 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIContainer.cpp
+	"GUIContainer.h"
+
+1139993062 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIIcon.cpp
+	"Image.h"
+	"GUIIcon.h"
+
+1139333242 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUIIcon.h
+	"GUIComponent.h"
+
+1330811220 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUILabel.cpp
+	<string>
+	"GUILabel.h"
+
+1331137977 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameDisplay.cpp
+	"GameUtil.h"
+	"GUIComponent.h"
+	"GameDisplay.h"
+
+1332639869 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameObject.cpp
+	"GameWorld.h"
+	"GameObject.h"
+
+1139409378 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameObjectType.cpp
+	"GameUtil.h"
+	"GameObjectType.h"
+
+1332419197 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameSession.cpp
+	"GameUtil.h"
+	"GameWindow.h"
+	"GameDisplay.h"
+	"GameWorld.h"
+	"GlutSession.h"
+	"GameSession.h"
+
+1235414240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GlutSession.h
+	<map>
+
+1331339690 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameWindow.cpp
+	"GameUtil.h"
+	"GameWorld.h"
+	"IKeyboardListener.h"
+	"GameDisplay.h"
+	"GameWindow.h"
+
+1332852701 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GameWorld.cpp
+	"GameUtil.h"
+	"GameObject.h"
+	"GameWorld.h"
+	"Drone.h"
+
+1328641222 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GlutSession.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	"ITimerListener.h"
+	"GlutWindow.h"
+	"GlutSession.h"
+	<limits.h>
+
+1331334483 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GlutWindow.cpp
+	<GL/glut.h>
+	"IKeyboardListener.h"
+	"IMouseListener.h"
+	"IWindowListener.h"
+	"GlutSession.h"
+	"GlutWindow.h"
+
+1330587489 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IMouseListener.h
+
+1139333632 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/IWindowListener.h
+
+1235418778 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Image.cpp
+	"GameUtil.h"
+	"Image.h"
+
+1141250478 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/ImageManager.cpp
+	"Image.h"
+	"ImageManager.h"
+
+1332851278 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/MAIN.CPP
+	<time.h>
+	"GlutSession.h"
+	"Asteroids.h"
+
+1139333240 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/MovementController.cpp
+	"GLVector.h"
+	"GameObject.h"
+	"MovementController.h"
+
+1139333240 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/MovementController.h
+	"SmartPtr.h"
+
+1332552409 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Shape.cpp
+	"GameUtil.h"
+	"Shape.h"
+
+1334081415 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Spaceship.cpp
+	"GameUtil.h"
+	"GameWorld.h"
+	"BoundingSphere.h"
+	"Bullet.h"
+	"Spaceship.h"
+
+1330815963 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Sprite.cpp
+	"GameUtil.h"
+	"GameWindow.h"
+	"GameWorld.h"
+	"Texture.h"
+	"Animation.h"
+	"Sprite.h"
+
+1141220006 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Texture.cpp
+	"GameUtil.h"
+	"Image.h"
+	"Texture.h"
+
+1141250518 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/TextureManager.cpp
+	"ImageManager.h"
+	"TextureManager.h"
+	"Image.h"
+	"Texture.h"
+
+1334081402 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Drone.cpp
+	<stdlib.h>
+	"GameUtil.h"
+	"BoundingShape.h"
+	"BoundingSphere.h"
+	"Drone.h"
+	"Bullet.h"
+	<cmath>
+
+1332844375 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Drone.h
+	"GameUtil.h"
+	"GameSession.h"
+	"Shape.h"
+	"GameObject.h"
+	"Order.h"
+
+1330737533 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/SelectionBox.cpp
+
+1332571655 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUISelectionBox.cpp
+	"GUISelectionBox.h"
+	"GameObject.h"
+
+1332241331 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/GUISelectionBox.h
+	"GUIComponent.h"
+
+1332805580 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Order.h
+	"GameUtil.h"
+	"GameObject.h"
+
+1331136582 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/UnitManager.cpp
+	"UnitManager.h"
+
+1331124877 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/UnitManager.h
+	"GameUtil.h"
+	<vector>
+
+1332851489 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Order.cpp
+	<stdlib.h>
+	"Order.h"
+	"Drone.h"
+
+1332806141 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/AsteroidOre.cpp
+	<stdlib.h>
+	"GameUtil.h"
+	"BoundingShape.h"
+	"BoundingSphere.h"
+	"AsteroidOre.h"
+
+1332806154 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/AsteroidOre.h
+	"GameUtil.h"
+	"GameObject.h"
+	"Shape.h"
+
+1332777048 /home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Ore.h
+	"GameUtil.h"
+	"GameObject.h"
+	"Shape.h"
+
+1332799516 source:/home/domink/Documents/Uni_Work/C++_Game/C++_games_tech/GameProjectActual/GameProjectActual/Ore.cpp
+	<stdlib.h>
+	"GameUtil.h"
+	"BoundingShape.h"
+	"BoundingSphere.h"
+	"Ore.h"
+
