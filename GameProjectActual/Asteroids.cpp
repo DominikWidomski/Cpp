@@ -84,11 +84,17 @@ void Asteroids::Start()
     mLevel = 1;
     mAsteroidCount = 1;
 
+    int w = mGameDisplay->GetWidth();
+    int h = mGameDisplay->GetHeight();
+
+    cout << "width : " << w;
+    cout << "height : " << h;
+
     // creating asteroids
     for (int i = 0; i < 10; i++)
     {
-        int x = rand() % mGameDisplay->GetWidth()/4;
-        int y = rand() % mGameDisplay->GetHeight()/4;
+        int x = (rand() % w) - w/2;
+        int y = (rand() % h) - h/2;
         mGameWorld->AddObject(CreateAsteroid(x,y));
         mAsteroidCount++;
     }
@@ -96,11 +102,12 @@ void Asteroids::Start()
     //creating ore asteroids
     for (int i = 0; i < 10; i++)
     {
-        int x = rand() % mGameDisplay->GetWidth()/4;
-        int y = rand() % mGameDisplay->GetHeight()/4;
+        int x = (rand() % w) - w/2;
+        int y = (rand() % h) - h/2;
         mGameWorld->AddObject(CreateAsteroidOre(x,y));
         mAsteroidCount++;
     }
+
 
     // creating drones
     float rAngle = 0;
@@ -602,7 +609,7 @@ SmartPtr<GameObject> Asteroids::CreateAsteroid(int _x, int _y)
     asteroid->SetScale(0.2f);
 
     //debug
-    if(mConsoleDebug == true) cout << "Created the asteroid: " << asteroid->GetPosition().x << "," << asteroid->GetPosition().y << endl;
+    if(mConsoleDebug == true) cout << "Created an asteroid: " << asteroid->GetPosition().x << "," << asteroid->GetPosition().y << endl;
 
     return asteroid;
 }
@@ -615,6 +622,9 @@ SmartPtr<GameObject> Asteroids::CreateAsteroidOre(int _x, int _y)
     SmartPtr<GameObject> asteroidOre = new AsteroidOre(_x, _y);
     asteroidOre->SetSprite(asteroidOre_sprite);
     asteroidOre->SetScale(0.2f);
+
+    //debug
+    if(mConsoleDebug == true) cout << "Created an Ore asteroid: " << asteroidOre->GetPosition().x << "," << asteroidOre->GetPosition().y << endl;
 
     return asteroidOre;
 }

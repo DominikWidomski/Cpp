@@ -12,7 +12,7 @@ GameSession::GameSession(int argc, char *argv[])
 {
 	mGameWorld = new GameWorld(800, 800);
 	mGameDisplay = new GameDisplay(800, 400);
-	mGameWindow = new GameWindow(800, 400, 300, 300, "Awesome Mad Game");
+	mGameWindow = new GameWindow(800, 400, 300, 300, "Awesome Crazy Game that's Good");
 	mGameWindow->SetDisplay(mGameDisplay);
 	mGameWindow->SetWorld(mGameWorld);
 
