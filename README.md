@@ -1,3 +1,3 @@
-Cpp
-===
-This is a simple game I have worked on for a little while at University. It's not impressive or anything, but I'd like to work on it more very soon.
+# Cpp
+
+This is a simple game I have worked on for a little while at University. Can't remember what it's about at this point and it's not impressive or anything. I guess it could use a bit of care and can act as a reference for future.
